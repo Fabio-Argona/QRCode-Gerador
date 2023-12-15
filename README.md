@@ -15,3 +15,6 @@ Nenhum pré-requisito específico é necessário para executar este projeto. Bas
 
 ## Como Contribuir
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novos recursos. 
+
+![image](https://github.com/Fabio-Argona/QRCode-Gerador/assets/128233610/1698fc96-b0e8-46c7-8e31-7b7a35e43c01)
+
